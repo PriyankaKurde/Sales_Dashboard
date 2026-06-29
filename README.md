@@ -1,4 +1,5 @@
-Sales Analysis Dashboard 📊
+Sales Analysis Dashboard 
+
 Overview
 
 The Sales Analysis Dashboard is an interactive Power BI dashboard designed to analyze sales performance across different years, regions, categories, and customers. It helps businesses track revenue trends, customer behavior, and order insights for better decision-making.
